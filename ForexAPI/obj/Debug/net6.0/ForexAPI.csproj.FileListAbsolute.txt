@@ -1,0 +1,15 @@
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\bin\Debug\net6.0\ForexAPI.exe
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\bin\Debug\net6.0\ForexAPI.deps.json
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\bin\Debug\net6.0\ForexAPI.runtimeconfig.json
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\bin\Debug\net6.0\ForexAPI.dll
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\bin\Debug\net6.0\ForexAPI.pdb
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\obj\Debug\net6.0\ForexAPI.csproj.AssemblyReference.cache
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\obj\Debug\net6.0\ForexAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\obj\Debug\net6.0\ForexAPI.AssemblyInfoInputs.cache
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\obj\Debug\net6.0\ForexAPI.AssemblyInfo.cs
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\obj\Debug\net6.0\ForexAPI.csproj.CoreCompileInputs.cache
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\obj\Debug\net6.0\ForexAPI.dll
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\obj\Debug\net6.0\refint\ForexAPI.dll
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\obj\Debug\net6.0\ForexAPI.pdb
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\obj\Debug\net6.0\ForexAPI.genruntimeconfig.cache
+C:\Users\jumarov\source\repos\training\ForexAPI\ForexAPI\obj\Debug\net6.0\ref\ForexAPI.dll
